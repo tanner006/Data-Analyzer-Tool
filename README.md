@@ -3,7 +3,7 @@
 ### _Version 1.0_ 
 ### _09/12/22_ 
 
-##Contributers:
+## Contributers:
 Tanner Farkas
 Meagan Pitts
 Arif Aziz
