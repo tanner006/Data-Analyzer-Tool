@@ -4,9 +4,9 @@
 ### _09/12/22_ 
 
 ## Contributers:
-Tanner Farkas
-Meagan Pitts
-Arif Aziz
+Tanner Farkas,
+Meagan Pitts,
+Arif Aziz,
 Jason Dmello
 
 Data Analyzer is an application built in Python that interpolates an inputted .CSV file, sorts the data, performs polynomial regression, and displays the plotted data with a line or curve of best fit. 
