@@ -18,7 +18,7 @@ Data Analyzer is an application built in Python that interpolates an inputted .C
 - Plots the sorted data as histograms depending on the desired independent and dependent variables of the graphs.
 - Performs regression techniques based on the graphs data to display a line or curve of best fit. 
 - Determines the maximum and minimum value of the line or curve of best fit for the desired graphs.
-- Uses a text user interface and batch user interface to allow the user to *insert more info here*
+- Uses a text user interface and batch user interface
 
 ## Installation
 Install the _.zip_ file titled _T078_data_analyzer.zip_ to get access on the computer to the  "Data Analyzer" application. Unzip the file using an unzip applications (i.e. 7-Zip) to have the uncompressed version of the _T078_data_analyzer_ folder. 
